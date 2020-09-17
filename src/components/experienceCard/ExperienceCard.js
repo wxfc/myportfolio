@@ -30,8 +30,6 @@ export default function ExperienceCard({ cardInfo }) {
         <a href={cardInfo.desc}><img crossOrigin={"anonymous"} ref={imgRef} className="experience-roundedimg" src={cardInfo.companylogo} alt={cardInfo.company} onLoad={() => getColorArrays()}/></a>
       </div>
       <div className="experience-text-details">
-        {/* <h5 className="experience-text-role">{cardInfo.role}</h5>
-        <h5 className="experience-text-date">{cardInfo.date}</h5> */}
         <ul>
           <GetDescBullets descBullets={cardInfo.descBullets} />
         </ul>

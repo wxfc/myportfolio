@@ -9,7 +9,7 @@ export default function AboutMe() {
       <div className="about-me-main-div">
         <Fade left duration={1000}>
         <div className="about-me-image-div">
-          <img alt="" src={require("../../assets/images/IMG_1539.jpg")}></img>
+          <img alt="hi, this is me" src={require("../../assets/images/IMG_1539.JPG")}></img>
         </div>
         </Fade>
         <Fade right duration={1000}>

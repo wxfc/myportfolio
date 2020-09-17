@@ -1,6 +1,6 @@
 {
-  "homepage": "https://developerfolio.js.org/",
-  "name": "saadpasta.github.io",
+  "homepage": "wayne_colaco_portfolio",
+  "name": "wxfc",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -21,7 +21,7 @@
     "predeploy": "npm run build",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "npm run build; surge build waynecolaco.surge.sh",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

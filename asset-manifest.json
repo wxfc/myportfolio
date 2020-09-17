@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/waynecolaco/static/css/main.ca7ccfb0.chunk.css",
-    "main.js": "/waynecolaco/static/js/main.6f40658a.chunk.js",
-    "main.js.map": "/waynecolaco/static/js/main.6f40658a.chunk.js.map",
-    "runtime-main.js": "/waynecolaco/static/js/runtime-main.1343fcd3.js",
-    "runtime-main.js.map": "/waynecolaco/static/js/runtime-main.1343fcd3.js.map",
+    "main.js": "/waynecolaco/static/js/main.337549fb.chunk.js",
+    "main.js.map": "/waynecolaco/static/js/main.337549fb.chunk.js.map",
+    "runtime-main.js": "/waynecolaco/static/js/runtime-main.a1b342b6.js",
+    "runtime-main.js.map": "/waynecolaco/static/js/runtime-main.a1b342b6.js.map",
     "static/js/2.52b43c1d.chunk.js": "/waynecolaco/static/js/2.52b43c1d.chunk.js",
     "static/js/2.52b43c1d.chunk.js.map": "/waynecolaco/static/js/2.52b43c1d.chunk.js.map",
     "static/css/3.c7b31c95.chunk.css": "/waynecolaco/static/css/3.c7b31c95.chunk.css",
     "static/js/3.b71be4cd.chunk.js": "/waynecolaco/static/js/3.b71be4cd.chunk.js",
     "static/js/3.b71be4cd.chunk.js.map": "/waynecolaco/static/js/3.b71be4cd.chunk.js.map",
     "static/css/4.54df59d4.chunk.css": "/waynecolaco/static/css/4.54df59d4.chunk.css",
-    "static/js/4.d07f2cde.chunk.js": "/waynecolaco/static/js/4.d07f2cde.chunk.js",
-    "static/js/4.d07f2cde.chunk.js.map": "/waynecolaco/static/js/4.d07f2cde.chunk.js.map",
+    "static/js/4.aeeaa1ed.chunk.js": "/waynecolaco/static/js/4.aeeaa1ed.chunk.js",
+    "static/js/4.aeeaa1ed.chunk.js.map": "/waynecolaco/static/js/4.aeeaa1ed.chunk.js.map",
     "index.html": "/waynecolaco/index.html",
-    "precache-manifest.27f31abc20b0593b1904080e6b74397e.js": "/waynecolaco/precache-manifest.27f31abc20b0593b1904080e6b74397e.js",
+    "precache-manifest.d9eb094d0e00e4fa04275bfd89dddb79.js": "/waynecolaco/precache-manifest.d9eb094d0e00e4fa04275bfd89dddb79.js",
     "service-worker.js": "/waynecolaco/service-worker.js",
     "static/css/3.c7b31c95.chunk.css.map": "/waynecolaco/static/css/3.c7b31c95.chunk.css.map",
     "static/css/4.54df59d4.chunk.css.map": "/waynecolaco/static/css/4.54df59d4.chunk.css.map",
@@ -35,9 +35,9 @@
     "static/media/tictactoe.png": "/waynecolaco/static/media/tictactoe.f3889aea.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1343fcd3.js",
+    "static/js/runtime-main.a1b342b6.js",
     "static/js/2.52b43c1d.chunk.js",
     "static/css/main.ca7ccfb0.chunk.css",
-    "static/js/main.6f40658a.chunk.js"
+    "static/js/main.337549fb.chunk.js"
   ]
 }

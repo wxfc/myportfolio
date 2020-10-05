@@ -7,30 +7,30 @@ function Header() {
   const exp = workExperiences.viewExperiences;
   return (
     <Headroom>
-      <header className="header">
-        <a href="" className="logo">
-          <span className="grey-color"> &lt;</span>
-          <span className="logo-name">{greeting.username}</span>
-          <span className="grey-color">/&gt;</span>
-        </a>
-        <input className="menu-btn" type="checkbox" id="menu-btn" />
-        <label className="menu-icon" htmlFor="menu-btn">
-          <span className="navicon"></span>
-        </label>
-        <ul className="menu">
-          <li>
-            <a href="#skills">About Me</a>
-          </li>
-          { exp === true &&
+        <header className="header">
+          <a href="" className="logo">
+            <span className="grey-color"> &lt;</span>
+            <span className="logo-name">{greeting.username}</span>
+            <span className="grey-color">/&gt;</span>
+          </a>
+          <input className="menu-btn" type="checkbox" id="menu-btn" />
+          <label className="menu-icon" htmlFor="menu-btn">
+            <span className="navicon"></span>
+          </label>
+          <ul className="menu">
             <li>
-              <a href="#experience">Projects</a>
+              <a href="#about-me">About Me</a>
             </li>
-          } 
-          <li>
-            <a href="#contact">Contact Me</a>
-          </li>
-        </ul>
-      </header>
+            { exp === true &&
+              <li>
+                <a href="#experience">Projects</a>
+              </li>
+            } 
+            <li>
+              <a href="#contact">Contact Me</a>
+            </li>
+          </ul>
+        </header>
     </Headroom>
   );
 }

@@ -23,7 +23,7 @@
 
 .contact-detail:hover,
 .contact-detail-email:hover {
-    color: #fcdab7k;
+    color: #fcdab7;
     text-shadow: 2px 1px 2px #fcdab7;
     transition: all 0.3s;
 }
@@ -39,13 +39,6 @@
 
 .contact-margin-top {
     margin-top: 4rem;
-}
-
-.contact-image-div > img {
-    max-width: 100%;
-    height: auto;
-    margin-left: 1.5rem;
-    margin-top: -4rem;
 }
 
 /* Media Query */
@@ -75,9 +68,5 @@
     .contact-detail,
     .contact-detail-email {
         font-size: 20px;
-    }
-
-    .contact-image-div {
-        display: none;
     }
 }

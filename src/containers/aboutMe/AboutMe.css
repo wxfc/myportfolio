@@ -1,8 +1,16 @@
 .about-me-main-div {
   display: flex;
 }
+
+.about-me-div-heading {
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
 .about-me-text-div {
-  margin-left: 50px;
+  margin-left: 0px;
+  line-height: 1.6;
 }
 
 .about-me-main-div > * {
@@ -10,15 +18,22 @@
   margin-bottom: 30px;
 }
 
+.about-me-image-div {
+  margin: auto;
+}
+
 .about-me-image-div > img {
-  max-width: 100%;
+  max-width: 70%;
   height: auto;
+  display: block;
+  margin: auto;
 }
 
 .about-me-heading {
   font-size: 56px;
   font-weight: 400;
   color: #fcdab7;
+  margin-top: 0;
 }
 
 .about-me-text-subtitle {
@@ -38,7 +53,7 @@
   }
   .greeting-text-p {
     font-size: 16px;
-    line-height: normal;
+    line-height: 1.6;
   }
   .about-me-main-div {
     flex-direction: column
@@ -52,10 +67,9 @@
   }
   .about-me-text-subtitle {
     font-size: 16px;
-    text-align: center;
+    /* text-align: center; */
   }
   .about-me-image-div {
-    /* display: none; */
-    order: 2;
+    max-width: 70%;
   }
 }

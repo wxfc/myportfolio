@@ -21,6 +21,9 @@ export default function AboutMe() {
           <p className="subTitle about-me-text-subtitle">{skillsSection.para}</p>
           <p className="subTitle about-me-text-subtitle">{skillsSection.paraTwo}</p>
           <p className="subTitle about-me-text-subtitle">{skillsSection.paraThree}</p>
+          <p className="subTitle about-me-text-subtitle">{skillsSection.paraFour}</p>
+          <p className="subTitle about-me-text-subtitle">{skillsSection.paraFive}</p>
+          <p className="subTitle about-me-text-subtitle">{skillsSection.paraSix}</p>
         </div>
         </Fade>
       </div>

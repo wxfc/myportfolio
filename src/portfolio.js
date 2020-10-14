@@ -158,6 +158,26 @@ const workExperiences = {
         "Postgres SQL"
       ]
     },
+    {
+      company: "Pong",
+      companylogo: require("./assets/images/pong.png"),
+      desc: "https://wxfc.github.io/pong/",
+      descBullets: [
+        "Javascript",
+        "HTML"
+      ]
+    },
+    {
+      company: "NotTwitter",
+      companylogo: require("./assets/images/notTwitter.png"),
+      desc: "https://project-nottwitter.herokuapp.com/",
+      descBullets: [
+        "Javascript",
+        "Vue",
+        "SCSS",
+        "HTML"
+      ]
+    },
     {  
       company: "Tic Tac Toe",
       companylogo: require("./assets/images/tictactoe.png"),

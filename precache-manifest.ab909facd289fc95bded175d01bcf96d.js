@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "66e9e0b37a44931a680613e047de71cd",
+    "revision": "5ed3287a9024001422112ec1d0bd9eb9",
     "url": "/waynecolaco/index.html"
   },
   {
-    "revision": "e0d26693834a9c33a03e",
+    "revision": "cf748a4380b2ff0428cc",
     "url": "/waynecolaco/static/css/3.c7b31c95.chunk.css"
   },
   {
-    "revision": "d2a5c14e5ebdba11d540",
+    "revision": "880e8f878e1e5ed3e43a",
     "url": "/waynecolaco/static/css/4.54df59d4.chunk.css"
   },
   {
-    "revision": "6c05a6b2bf3bc4dea613",
+    "revision": "ce9407a53b3e3a0deb4a",
     "url": "/waynecolaco/static/css/main.9e754121.chunk.css"
   },
   {
-    "revision": "aa701884afcb4278e0ae",
-    "url": "/waynecolaco/static/js/2.edc476d6.chunk.js"
+    "revision": "fc182066925fa79c2219",
+    "url": "/waynecolaco/static/js/2.db6c58ab.chunk.js"
   },
   {
-    "revision": "e0d26693834a9c33a03e",
-    "url": "/waynecolaco/static/js/3.948c27f0.chunk.js"
+    "revision": "cf748a4380b2ff0428cc",
+    "url": "/waynecolaco/static/js/3.18d58bf0.chunk.js"
   },
   {
-    "revision": "d2a5c14e5ebdba11d540",
-    "url": "/waynecolaco/static/js/4.1bbba9f7.chunk.js"
+    "revision": "880e8f878e1e5ed3e43a",
+    "url": "/waynecolaco/static/js/4.d8e2b481.chunk.js"
   },
   {
-    "revision": "6c05a6b2bf3bc4dea613",
-    "url": "/waynecolaco/static/js/main.6aade0c6.chunk.js"
+    "revision": "ce9407a53b3e3a0deb4a",
+    "url": "/waynecolaco/static/js/main.c27fab25.chunk.js"
   },
   {
-    "revision": "132a58ff1745a42771ec",
-    "url": "/waynecolaco/static/js/runtime-main.8688e5c7.js"
+    "revision": "c9616512939937089407",
+    "url": "/waynecolaco/static/js/runtime-main.dc66839b.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -58,6 +58,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/waynecolaco/static/media/manOnTable.52be3144.svg"
+  },
+  {
+    "revision": "ab0f282cf1f06a4b83e95926b0f18620",
+    "url": "/waynecolaco/static/media/notTwitter.ab0f282c.png"
+  },
+  {
+    "revision": "f59cf6970c57d766fca923a55c4fd1d2",
+    "url": "/waynecolaco/static/media/pong.f59cf697.png"
   },
   {
     "revision": "d6a7a826b2ea7c0929ee7ee884f24606",

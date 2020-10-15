@@ -5,6 +5,7 @@ import AboutMe from "./aboutMe/AboutMe";
 import Experience from "./experience/Experience";
 import Projects from "./projects/Projects";
 import StartupProject from "./StartupProjects/StartupProject";
+import Background from "./background/background";
 import Top from "./topbutton/Top";
 import Profile from "./profile/Profile";
 
@@ -13,59 +14,7 @@ export default class Main extends Component {
     return (
       <div>
         <div className="wrapper">
-          <div className="box">
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-            <div></div>
-          </div>
-        
+        <Background />
         <Header />
         <Greeting />
         <AboutMe />

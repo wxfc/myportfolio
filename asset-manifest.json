@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/waynecolaco/static/css/main.2592386a.chunk.css",
-    "main.js": "/waynecolaco/static/js/main.46bb02db.chunk.js",
-    "main.js.map": "/waynecolaco/static/js/main.46bb02db.chunk.js.map",
+    "main.css": "/waynecolaco/static/css/main.cd984a5a.chunk.css",
+    "main.js": "/waynecolaco/static/js/main.6474d9bd.chunk.js",
+    "main.js.map": "/waynecolaco/static/js/main.6474d9bd.chunk.js.map",
     "runtime-main.js": "/waynecolaco/static/js/runtime-main.fdc79fa5.js",
     "runtime-main.js.map": "/waynecolaco/static/js/runtime-main.fdc79fa5.js.map",
     "static/js/2.d1bac500.chunk.js": "/waynecolaco/static/js/2.d1bac500.chunk.js",
@@ -14,16 +14,16 @@
     "static/js/4.213c8d98.chunk.js": "/waynecolaco/static/js/4.213c8d98.chunk.js",
     "static/js/4.213c8d98.chunk.js.map": "/waynecolaco/static/js/4.213c8d98.chunk.js.map",
     "index.html": "/waynecolaco/index.html",
-    "precache-manifest.120a38fe5ad1fbc60ea1eb83553ca514.js": "/waynecolaco/precache-manifest.120a38fe5ad1fbc60ea1eb83553ca514.js",
+    "precache-manifest.d28fb714b8d0d1f9a85feb855064711e.js": "/waynecolaco/precache-manifest.d28fb714b8d0d1f9a85feb855064711e.js",
     "service-worker.js": "/waynecolaco/service-worker.js",
     "static/css/3.c7b31c95.chunk.css.map": "/waynecolaco/static/css/3.c7b31c95.chunk.css.map",
     "static/css/4.54df59d4.chunk.css.map": "/waynecolaco/static/css/4.54df59d4.chunk.css.map",
-    "static/css/main.2592386a.chunk.css.map": "/waynecolaco/static/css/main.2592386a.chunk.css.map",
+    "static/css/main.cd984a5a.chunk.css.map": "/waynecolaco/static/css/main.cd984a5a.chunk.css.map",
     "static/media/index.css": "/waynecolaco/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/IMG_1539.JPG": "/waynecolaco/static/media/IMG_1539.fbc1d2a8.JPG",
     "static/media/codingMemes.png": "/waynecolaco/static/media/codingMemes.25f84ade.png",
     "static/media/logo.svg": "/waynecolaco/static/media/logo.25bf045c.svg",
-    "static/media/manOnTable.svg": "/waynecolaco/static/media/manOnTable.52be3144.svg",
+    "static/media/me.jpg": "/waynecolaco/static/media/me.5f7876be.jpg",
     "static/media/notTwitter.png": "/waynecolaco/static/media/notTwitter.ab0f282c.png",
     "static/media/pong.png": "/waynecolaco/static/media/pong.f59cf697.png",
     "static/media/rentalRatings.png": "/waynecolaco/static/media/rentalRatings.d6a7a826.png",
@@ -33,7 +33,7 @@
   "entrypoints": [
     "static/js/runtime-main.fdc79fa5.js",
     "static/js/2.d1bac500.chunk.js",
-    "static/css/main.2592386a.chunk.css",
-    "static/js/main.46bb02db.chunk.js"
+    "static/css/main.cd984a5a.chunk.css",
+    "static/js/main.6474d9bd.chunk.js"
   ]
 }

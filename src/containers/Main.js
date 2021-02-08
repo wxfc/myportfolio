@@ -4,7 +4,6 @@ import Greeting from "./greeting/Greeting";
 import AboutMe from "./aboutMe/AboutMe";
 import Experience from "./experience/Experience";
 import Projects from "./projects/Projects";
-import StartupProject from "./StartupProjects/StartupProject";
 import Background from "./background/background";
 import Top from "./topbutton/Top";
 import Profile from "./profile/Profile";
@@ -20,7 +19,6 @@ export default class Main extends Component {
         <AboutMe />
         <Experience /> 
         <Projects />
-        {/* <StartupProject /> */}
         <Profile />
         <Top />
         </div>

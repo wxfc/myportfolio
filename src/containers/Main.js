@@ -7,6 +7,8 @@ import Projects from "./projects/Projects";
 import Background from "./background/background";
 import Top from "./topbutton/Top";
 import Profile from "./profile/Profile";
+import Panda from "./panda/Panda";
+
 
 export default class Main extends Component {
   render() {
@@ -21,6 +23,7 @@ export default class Main extends Component {
         <Projects />
         <Profile />
         <Top />
+        <Panda />
         </div>
       </div>
     );

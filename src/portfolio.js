@@ -211,4 +211,4 @@ const twitterDetails = {
 
   userName : "_wxfc"
 };
-export { greeting, socialMediaLinks, skillsSection, techStack, workExperiences, openSource, blogSection, talkSection, podcastSection, contactInfo , twitterDetails};
+export { greeting, socialMediaLinks, skillsSection, techStack, workExperiences, openSource, contactInfo , twitterDetails};

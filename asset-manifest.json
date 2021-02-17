@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/waynecolaco/static/css/main.cd984a5a.chunk.css",
-    "main.js": "/waynecolaco/static/js/main.6474d9bd.chunk.js",
-    "main.js.map": "/waynecolaco/static/js/main.6474d9bd.chunk.js.map",
-    "runtime-main.js": "/waynecolaco/static/js/runtime-main.fdc79fa5.js",
-    "runtime-main.js.map": "/waynecolaco/static/js/runtime-main.fdc79fa5.js.map",
-    "static/js/2.d1bac500.chunk.js": "/waynecolaco/static/js/2.d1bac500.chunk.js",
-    "static/js/2.d1bac500.chunk.js.map": "/waynecolaco/static/js/2.d1bac500.chunk.js.map",
+    "main.css": "/waynecolaco/static/css/main.1e325fed.chunk.css",
+    "main.js": "/waynecolaco/static/js/main.5e863632.chunk.js",
+    "main.js.map": "/waynecolaco/static/js/main.5e863632.chunk.js.map",
+    "runtime-main.js": "/waynecolaco/static/js/runtime-main.dfacf128.js",
+    "runtime-main.js.map": "/waynecolaco/static/js/runtime-main.dfacf128.js.map",
+    "static/js/2.f2a8a888.chunk.js": "/waynecolaco/static/js/2.f2a8a888.chunk.js",
+    "static/js/2.f2a8a888.chunk.js.map": "/waynecolaco/static/js/2.f2a8a888.chunk.js.map",
     "static/css/3.c7b31c95.chunk.css": "/waynecolaco/static/css/3.c7b31c95.chunk.css",
-    "static/js/3.4638685b.chunk.js": "/waynecolaco/static/js/3.4638685b.chunk.js",
-    "static/js/3.4638685b.chunk.js.map": "/waynecolaco/static/js/3.4638685b.chunk.js.map",
+    "static/js/3.8dc650df.chunk.js": "/waynecolaco/static/js/3.8dc650df.chunk.js",
+    "static/js/3.8dc650df.chunk.js.map": "/waynecolaco/static/js/3.8dc650df.chunk.js.map",
     "static/css/4.54df59d4.chunk.css": "/waynecolaco/static/css/4.54df59d4.chunk.css",
-    "static/js/4.213c8d98.chunk.js": "/waynecolaco/static/js/4.213c8d98.chunk.js",
-    "static/js/4.213c8d98.chunk.js.map": "/waynecolaco/static/js/4.213c8d98.chunk.js.map",
+    "static/js/4.b0709ee6.chunk.js": "/waynecolaco/static/js/4.b0709ee6.chunk.js",
+    "static/js/4.b0709ee6.chunk.js.map": "/waynecolaco/static/js/4.b0709ee6.chunk.js.map",
     "index.html": "/waynecolaco/index.html",
-    "precache-manifest.d28fb714b8d0d1f9a85feb855064711e.js": "/waynecolaco/precache-manifest.d28fb714b8d0d1f9a85feb855064711e.js",
+    "precache-manifest.5d115ff2f55efba5c585ddce21703463.js": "/waynecolaco/precache-manifest.5d115ff2f55efba5c585ddce21703463.js",
     "service-worker.js": "/waynecolaco/service-worker.js",
     "static/css/3.c7b31c95.chunk.css.map": "/waynecolaco/static/css/3.c7b31c95.chunk.css.map",
     "static/css/4.54df59d4.chunk.css.map": "/waynecolaco/static/css/4.54df59d4.chunk.css.map",
-    "static/css/main.cd984a5a.chunk.css.map": "/waynecolaco/static/css/main.cd984a5a.chunk.css.map",
+    "static/css/main.1e325fed.chunk.css.map": "/waynecolaco/static/css/main.1e325fed.chunk.css.map",
     "static/media/index.css": "/waynecolaco/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/IMG_1539.JPG": "/waynecolaco/static/media/IMG_1539.fbc1d2a8.JPG",
     "static/media/codingMemes.png": "/waynecolaco/static/media/codingMemes.25f84ade.png",
@@ -31,9 +31,9 @@
     "static/media/tictactoe.png": "/waynecolaco/static/media/tictactoe.f3889aea.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.fdc79fa5.js",
-    "static/js/2.d1bac500.chunk.js",
-    "static/css/main.cd984a5a.chunk.css",
-    "static/js/main.6474d9bd.chunk.js"
+    "static/js/runtime-main.dfacf128.js",
+    "static/js/2.f2a8a888.chunk.js",
+    "static/css/main.1e325fed.chunk.css",
+    "static/js/main.5e863632.chunk.js"
   ]
 }
